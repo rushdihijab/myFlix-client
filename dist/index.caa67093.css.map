@@ -1,0 +1,1 @@
+{"mappings":"AAEA;EACI,OAHI;EAIJ;EACA","sources":["src/index.scss"],"sourcesContent":["$color: red;\n\n.my-flix {\n    color: $color;\n    font-size: 100px;\n    font-style: italic;\n\n}"],"names":[],"version":3,"file":"index.caa67093.css.map","sourceRoot":"/__parcel_source_root/"}
